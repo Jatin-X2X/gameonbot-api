@@ -1,3 +1,3 @@
-# Bot-Commader-for-discord-API
+# GameOnbot-api
 
-JOIN THE SERVER : https://discord.gg/cV2ENjt
+F this I ain't writing anything

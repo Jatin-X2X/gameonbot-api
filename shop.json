@@ -1,5 +1,5 @@
 {
   "shop": {
-    "battery": {"sell": "350", "buy": "800"}, "scout_ticket": {"sell": "500", "buy": "not able to be purchased"}
+    "battery": {"sell": "350", "buy": "800", "description": "A small battery\, can be used to charge your device once"}, "scout_ticket": {"sell": "500", "buy": "not able to be purchased"}, "paint": {"sell": "200", "buy": "600"}
   }
   }
